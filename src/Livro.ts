@@ -1,4 +1,4 @@
-export default class Livro {
+export default class Livro { 
   titulo: string;
   autor: string;
   disponivel: boolean;
