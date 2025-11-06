@@ -19,9 +19,13 @@ O código demonstra o uso prático de métodos assíncronos (async/await), simul
 
 🧱 Estrutura do Projeto
 src/
+
  ├── Livro.ts         # Classe que representa um livro
+
  ├── Biblioteca.ts    # Classe que gerencia os livros
+
  └── main.ts          # Função principal (assíncrona)
+
 tsconfig.json         # Configuração do TypeScript
 
 🧠 Conceitos utilizados
