@@ -18,6 +18,7 @@ O código demonstra o uso prático de métodos assíncronos (async/await), simul
 ✅ Arquitetura modular (classes separadas)
 
 🧱 Estrutura do Projeto
+
 src/
 
  ├── Livro.ts         # Classe que representa um livro
