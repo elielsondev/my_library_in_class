@@ -65,7 +65,8 @@ Execute o projeto
 - 1984 (George Orwell) -> Disponível
 
 Tentando emprestar "1984"...
-✅ "1984" emprestado com sucesso.
+
+"1984" emprestado com sucesso.
 
 📚 Livros na biblioteca "Biblioteca Central":
 
